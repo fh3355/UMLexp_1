@@ -51,7 +51,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         "NAME": APP_CODE,  # noqa
         "USER": "root",
-        "PASSWORD": "",
+        "PASSWORD": "fh3355",
         "HOST": "localhost",
         "PORT": "3306",
     },
